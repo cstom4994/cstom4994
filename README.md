@@ -1,4 +1,4 @@
-### Hi there, I'm cstom4994 👋
+### Hi there, I'm KaoruXun 👋
 
 [Home](https://github.com/cstom4994) •
 [Blog](https://cstom4994.github.io)
@@ -22,11 +22,3 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="cstom4994's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cstom4994&show_icons=true&hide_border=true" />
-
-</details>
