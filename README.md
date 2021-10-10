@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, and Otaku!
 
 - :zap: I'm currently learning everything
-- :zap: I'm working on indie game development
+- :zap: I'm working on source engine modification
 
 
 ![Counter](https://count.getloli.com/get/@cstom4994?theme=rule34)
