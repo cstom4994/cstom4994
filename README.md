@@ -8,9 +8,6 @@
 - :zap: I'm currently learning everything
 - :zap: I'm working on source engine modification
 
-
-![Counter](https://count.getloli.com/get/@cstom4994?theme=rule34)
-
 ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
