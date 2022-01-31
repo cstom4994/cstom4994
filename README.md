@@ -3,12 +3,13 @@
 [Home](https://github.com/cstom4994) •
 [Blog](https://cstom4994.github.io)
 
-## I'm a Student, Developer, and Otaku!
+## I'm a Student, Developer
 
-- :zap: I'm currently learning everything
-- :zap: I'm working on source engine modification
+I'm currently learning C/C++
+I'm working on source engine modification
 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![](https://img.shields.io/badge/Arch%20Linux-0078D6?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
 
