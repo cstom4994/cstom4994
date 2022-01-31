@@ -5,8 +5,7 @@
 
 ## I'm a Student, Developer
 
-I'm currently learning C/C++
-I'm working on source engine modification
+I'm currently learning C/C++ and working on source engine modification
 
 
 ![](https://img.shields.io/badge/Arch%20Linux-0078D6?style=for-the-badge&logo=archlinux&logoColor=white)
